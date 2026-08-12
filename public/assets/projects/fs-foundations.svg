@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f54e00"/>
+      <stop offset="100%" stop-color="#7a2900"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="40" y="40" width="720" height="420" fill="rgba(0,0,0,0.25)" rx="12"/>
+  <text x="60" y="120" font-family="Inter, sans-serif" font-size="36" font-weight="700" fill="#fff">FS Foundation</text>
+  <text x="60" y="160" font-family="Inter, sans-serif" font-size="18" fill="rgba(255,255,255,0.85)">Charity &amp; Welfare Platform</text>
+  <g transform="translate(60,220)">
+    <rect width="220" height="60" rx="6" fill="rgba(255,255,255,0.12)"/>
+    <text x="20" y="38" font-family="Inter, sans-serif" font-size="14" fill="#fff">Registered NGO · 7+ service verticals</text>
+  </g>
+  <g transform="translate(60,300)">
+    <rect width="220" height="60" rx="6" fill="rgba(255,255,255,0.12)"/>
+    <text x="20" y="38" font-family="Inter, sans-serif" font-size="14" fill="#fff">Donation flow + admin panel</text>
+  </g>
+  <g transform="translate(60,380)">
+    <text font-family="Inter, sans-serif" font-size="14" fill="rgba(255,255,255,0.6)">fsfoundations.com</text>
+  </g>
+  <g transform="translate(540,80)" opacity="0.85">
+    <circle cx="80" cy="80" r="80" fill="rgba(255,255,255,0.1)"/>
+    <text x="80" y="95" text-anchor="middle" font-family="Inter, sans-serif" font-size="64" fill="#fff">❤️</text>
+  </g>
+</svg>
